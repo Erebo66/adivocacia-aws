@@ -18,8 +18,8 @@
 #heading {
   text-align: center;
   margin: 2em;
-  color: rgb(255, 255, 255);
-  font-size: 1.2em;
+  color:#eeff00;
+  font-size: 2em;
 }
 
 .field {
@@ -72,7 +72,7 @@
 
 .button1:hover {
   background-color: black;
-  color: white;
+  color: #eeff00;
 }
 
 .button2 {
@@ -89,7 +89,7 @@
 
 .button2:hover {
   background-color: black;
-  color: white;
+  color:#eeff00;
 }
 
 .button3 {
@@ -105,5 +105,5 @@
 
 .button3:hover {
   background-color: red;
-  color: white;
+  color: #eeff00;
 }
