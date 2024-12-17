@@ -1,0 +1,25 @@
+.contener{
+    padding: 15px;
+    background-color: black;
+    color: aliceblue;
+}
+.titulo{
+    padding: 5px;
+    border: 2px solid #ffffff52;
+    background-color: rgb(0, 0, 0);
+    color: #d9ff00;
+    font-size: 25px;
+}
+.titulo h1{
+    text-align: center;
+}
+.perguntas{
+    padding: 5px;
+    margin: 2%;
+    border: 2px solid #d9ff00;
+    background-color: rgb(255, 255, 255);
+    color: #000;
+}
+.perguntas h2{
+    text-align: center;
+}

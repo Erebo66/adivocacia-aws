@@ -1,3 +1,52 @@
+
+.conteiner{
+    background-image: url("https://serenoadvogados.adv.br/site/wp-content/uploads/2021/09/divorce-3195578_1280-1024x836.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+}
 h1 {
     text-align: center;
 }
+.formulario{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 200px;
+    padding: 10px;
+}
+.quest{
+    display: block;
+    align-items: center;
+    border: 5px solid #fffb02a1;
+    color: #ffffff;
+    height: 90%;
+    width: 90%;
+    padding: 10px;
+    margin: 15px;
+
+    background-image: url("https://pdt-rj.org.br/wp-content/uploads/2018/01/104232861.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 450px 550px;
+}
+.formulario, img{
+    height: 90%;
+    width: 80%;
+}
+#envia{
+    color: #000;
+    background-color: #ffffff;
+    border: 2px solid #ff0000;
+    font-size: 25px;
+
+    margin-top: 5px;
+    margin-left: 40%;
+}
+#envia:hover{
+    color: #000;
+    background-color: #fa0000;
+    border: 3px solid #fffb07;
+    padding: 5px;
+}
+
